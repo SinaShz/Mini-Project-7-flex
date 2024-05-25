@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'Byekan';
+  src: url(fonts/Byekan.ttf) format('truetype');
+}
 * {
   margin: 0;
   padding: 0;
@@ -5,7 +9,7 @@
   scroll-behavior: smooth;
 }
 body {
-  font-family: "B Yekan", tahoma, Arial;
+  font-family: 'Byekan', tahoma, Arial;
 }
 .main-container {
   width: 1200px;
